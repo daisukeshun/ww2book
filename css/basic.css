@@ -102,7 +102,11 @@ body{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items:center;
 	text-align: center;
+}
+.inner_text .img_with_description{
+	margin-bottom: 5px;
 }
 
 h3 {
