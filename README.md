@@ -1,1 +1,1 @@
-# ww2book.github.io
+# ww2book.ru
